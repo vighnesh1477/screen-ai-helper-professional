@@ -1,0 +1,8 @@
+pyautogui
+pytesseract
+pillow
+keyboard
+flask
+requests
+python-dotenv
+flask-cors
